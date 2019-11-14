@@ -1,0 +1,11 @@
+#String formating
+name = "shiv"
+age = 25
+print ("hello " + name + " your age is " + str(age))
+print ("hello {} your age is {} ".format(name, age + 2)) # answer is 27
+#string indexing
+name = "shiv"
+print(name[1]) #answer is h
+#string slicing
+name = "shiv"
+print(name[0:2]) # answer is sh
