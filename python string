@@ -2,6 +2,12 @@
 print ("line1 \nline2 \nline3 ") #print line2 and line3 in next line
 print ("lineA \tlineB ") #use for tab like lineA 	lineB
 print ("this is single backslace \\") #if you want to double backslace you need four backslace
+print ("this is \\n hello") #print same line
+
+#calculation
+print(2+3*4) # answer 14
+print (4/2) #floating devison
+print (4//2) #integer devison
 
 #String formating
 name = "shiv"
