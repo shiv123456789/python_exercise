@@ -1,3 +1,8 @@
+#Variable
+user_one_name = "shiv" #snake case writing use in python
+userOnename = "shiv" # camel case writing use in java
+
+
 #escape sequence
 print ("line1 \nline2 \nline3 ") #print line2 and line3 in next line
 print ("lineA \tlineB ") #use for tab like lineA 	lineB
